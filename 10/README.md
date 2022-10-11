@@ -9,11 +9,11 @@ Lista de exercícios disponível em
 
 ### 10. [Zerinho ou Um](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/zerinho-ou-um)
 
-Quando precisa-se escolher apenas uma pessoa aleatoriamente dentro de um grupo, é comum jogar "zerinho ou um" para sortear alguém. O jogo é muito simples: cada jogador joga 0 ou 1 com as mão. Aquele que for o único(a) a jogar zero ou um é o sorteado. Faça um programa que imprima o nome da pessoa que foi sorteada, ou NINGUEM, caso ninguém tenha sido sorteado(a).
+Quando precisa-se escolher apenas uma pessoa aleatoriamente dentro de um grupo, é comum jogar "zerinho ou um" para sortear alguém. O jogo é muito simples: cada jogador joga 0 ou 1 com as mão. Aquele que for o único(a) a jogar zero ou um é o sorteado. Faça um programa que imprima o nome da pessoa que foi sorteada, ou `NINGUEM`, caso ninguém tenha sido sorteado(a).
 
 **Input Format**
 
-A entrada será sempre um vetor de objetos chamado jogadores, em que cada objeto é uma pessoa, com o seguinte formato:
+A entrada será sempre um vetor de objetos chamado `jogadores`, em que cada objeto é uma pessoa, com o seguinte formato:
 
 ~~~
 {
